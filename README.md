@@ -24,7 +24,7 @@ Eryan DELMON
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/HamzaBenalia/ChatBot
+   git clone https://github.com/EryanDe/chatbot2.git
    ```
 2. **Entraîner le modèle rasa avant d'utiliser le bot:**
    ```
