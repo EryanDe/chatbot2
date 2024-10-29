@@ -41,7 +41,8 @@ Configurer le chemin du modèle dans rest.py Dans le fichier rest.py, remplacez 
    action_endpoint:
    url: "http://localhost:5056/webhook"
    ```
-5. **Ajouter votre token Discord Remplacez 'YOUR_TOKEN_HERE' dans rest.py avec le token de votre bot Discord**.
+5. **Ajouter votre token Discord dans rest.py et dans credentials.yml avec le token de votre bot Discord**.
+   Pour des raisons de sécurité et pour pouvoir push notre projet nous l'avons supprmié avant de le publier sur Git
 
  ## Démarrage
  
@@ -65,8 +66,10 @@ intentions détectées.
 
 
 # Photos
-![Description de l'image](https://github.com/HamzaBenalia/ChatBot/blob/master/Images/Discord.png)
-![Description de l'image](https://github.com/HamzaBenalia/ChatBot/blob/master/Images/console.png)
+![Description de l'image](https://github.com/EryanDe/chatbot2/blob/master/Images/Capture3.PNG)
+![Description de l'image](https://github.com/EryanDe/chatbot2/blob/master/Images/Capture4.PNG)
+![Description de l'image](https://github.com/EryanDe/chatbot2/blob/master/Images/Capture5.PNG)
+![Description de l'image](https://github.com/EryanDe/chatbot2/blob/master/Images/Capture6.PNG)
 
 # Remarque 
 Il faut avoir un serveur et un token Discord au préalable pour pouvoir le connecter à Rasa. Il existe de nombreux tutoriels en ligne pour vous guider dans cette étape.
