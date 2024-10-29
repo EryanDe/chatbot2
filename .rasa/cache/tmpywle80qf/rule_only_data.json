@@ -1,0 +1,7 @@
+{
+  "rule_only_slots": [
+    "phone_number",
+    "cancel_code"
+  ],
+  "rule_only_loops": []
+}

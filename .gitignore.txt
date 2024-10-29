@@ -1,0 +1,3 @@
+# Fichiers contenant des informations sensibles
+actions/rest.py
+credentials.yml
